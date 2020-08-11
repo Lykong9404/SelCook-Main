@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">SelCook</string>
+
+    <string-array name="options">
+        <item>한식</item>
+        <item>양식</item>
+        <item>일식</item>
+        <item>중식</item>
+    </string-array>
 </resources>
