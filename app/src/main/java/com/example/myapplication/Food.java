@@ -7,9 +7,8 @@ public class Food {
     int imageID;
 
     public static final Food [] foods = {
-            new Food("김치찌개","Thin crust pizza with extra cheese", R.drawable.pizza),
-            new Food("된장찌개","Veg burger with aloo patty", R.drawable.burger),
-            new Food("비빔밥", "Whole wheat sandwich", R.drawable.sandwich)
+            new Food("김치찌개","Thin crust pizza with extra cheese", R.drawable.kimchikorean),
+            new Food("된장찌개","Veg burger with aloo patty", R.drawable.jangkorean)
     };
     public Food(String name, String description, int imageID)
     {
